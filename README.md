@@ -1,0 +1,1 @@
+(https://github.com/StrangerAlien/hexlet_pytest/blob/main/.github/workflows/tests.yml)
