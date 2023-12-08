@@ -1,1 +1,1 @@
-(https://github.com/StrangerAlien/hexlet_pytest/blob/main/.github/workflows/tests.yml)
+[![tests](https://github.com/StrangerAlien/hexlet_pytest/blob/main/.github/workflows/tests.yml/badge.svg)](https://github.com/StrangerAlien/hexlet_pytest/blob/main/.github/workflows/tests.yml)
